@@ -1,0 +1,75 @@
+/**************************************
+* {
+	border: 1px dashed red;
+	min-height: 10px;
+}
+**************************************/
+body {
+	background: #dad5d5;
+	color: #fff;
+	font-family: Helvetica;
+	text-align: center;
+	margin: 0;
+}
+/**************************************
+CONFIGURACIONES GENERALES ARRIBA
+CÓDIGO ABAJO
+**************************************/
+#wrapper {
+	margin: 0px;
+	padding: 0px;
+  }
+#header {
+	margin: 0 auto;
+	padding: 10px 0px 10px 0px;
+  }
+#header h1 {
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	color: black;
+  }
+#content {
+	margin: 0 auto;
+	width: 100%;
+  }
+#container {
+	margin: 20px auto;
+	width: 40%;
+	background-color: white;
+	border-radius: 4px;
+}
+.post-header {
+	margin: 0;
+	display: flex;
+	align-items: center;
+}
+.post-header h2 {
+	margin: 2px 0px 0px 5px;
+	color: black;
+	text-align: left;
+	padding: 5px;
+	width: 80%;
+}
+.post-header p {
+	margin: 0px auto;
+	color: black;
+}
+.post-body {
+	margin: 0px auto;
+	padding: 0px;
+}
+.post-body img {
+	width: 100%;
+	padding: 0px;
+	margin: 0px auto;
+}
+.post-footer {
+	margin: 0px auto;
+	text-align: left;
+	padding: 10px;
+}
+.post-footer p {
+	margin: 0px;
+	color: black;
+}
