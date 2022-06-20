@@ -15,25 +15,25 @@ body {
 CONFIGURACIONES GENERALES ARRIBA
 CÓDIGO ABAJO
 **************************************/
-#wrapper {
+.wrapper {
 	margin: 0px;
 	padding: 0px;
   }
-#header {
+.header {
 	margin: 0 auto;
 	padding: 10px 0px 10px 0px;
   }
-#header h1 {
+.header h1 {
 	text-align: center;
 	width: 60%;
 	margin: auto;
 	color: black;
   }
-#content {
+.content {
 	margin: 0 auto;
 	width: 100%;
   }
-#container {
+.container {
 	margin: 20px auto;
 	width: 40%;
 	background-color: white;
@@ -58,6 +58,7 @@ CÓDIGO ABAJO
 .post-body {
 	margin: 0px auto;
 	padding: 0px;
+	height: 500px auto;
 }
 .post-body img {
 	width: 100%;
